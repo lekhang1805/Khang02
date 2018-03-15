@@ -9,4 +9,11 @@ img {
 .text{
 	float: left;
 	width: 200px;
+	    background: #eee;
+		    color: #9f224e;
+    font: 700 14px/20px arial;
 }
+//netbeans-jsp-142931
+//https://netbeans.org/
+//Java SE development Kit Jdk 
+//http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html
