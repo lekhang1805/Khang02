@@ -1,0 +1,167 @@
+.ember-main{
+	background: #FAFAFA;
+    margin-top: 100px;
+}
+.ember-main .title-ember h2 {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    line-height: 4rem;
+    color: #292F34;
+    font-weight: 400;
+    font-size: 2.2rem;
+    display: inline-block;
+    position: relative;
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+@media (min-width: 400px) and (max-width: 768px) {
+  .type-303 .ember-main .col-sm-6 {
+    width: 50% !important;
+  }
+}
+@media (max-width: 430px) {
+  .type-303 html {
+    font-size: 10px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1080px) {
+  .type-303 .ember-main .col-md-3 {
+    width: 33% !important;
+  }
+}
+.ember-main .list-ember .ember-author-follow-view {
+    margin-bottom: 20px;
+    border-radius: 4px;
+    transition: box-shadow .15s ease;
+    overflow: hidden;
+    background: #fff;
+    text-align: center;
+    padding-bottom: 24px;
+    vertical-align: top;
+    display: inline-block;
+}
+.ember-main .list-ember .ember-author-follow-view .image-banner {
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+}
+img {
+    max-width: 100%;
+    border: 0px;
+    vertical-align: middle;
+}
+.ember-main .list-ember .ember-author-follow-view .image-banner img {
+    transform: translateY(-50%);
+    max-width: 100%;
+    height: auto;
+}
+.ember-main .list-ember .ember-author-follow-view .avatar {
+    vertical-align: middle;
+    border-radius: 100px;
+    overflow: hidden;
+    height: 64px;
+    width: 64px;
+    display: block;
+    margin: -45px auto 0;
+    position: relative;
+}
+.ember-main .list-ember .ember-author-follow-view .username-author {
+    display: block;
+    margin-top: 18px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: #51535E;
+}
+.ember-main .list-ember .ember-author-follow-view .specialty {
+    display: block;
+    margin-top: 6px;
+    font-size: 1.3rem;
+}
+.ember-main .list-ember .ember-author-follow-view .user-stats {
+    margin-top: 18px;
+}
+.ember-main .list-ember .ember-author-follow-view .user-stats span {
+    display: block;
+    font-size: 1.6rem;
+    margin-bottom: 6px;
+}
+.ember-main .list-ember .ember-author-follow-view .user-stats div {
+    display: inline-block;
+    width: 50%;
+    font-size: 1.3rem;
+}
+.ember-main .list-ember .ember-author-follow-view .user-follow-button {
+    margin-top: 22px;
+    height: 40px;
+}
+.ember-main .list-ember .ember-author-follow-view .button-rounded.grey-outline {
+    border-color: #A1A0AF;
+    background: 0 0;
+    color: #51535E;
+}
+.type-303 .ember-main .list-ember .ember-author-follow-view .user-follow-button button {
+    height: 100%;
+}
+.ember-main .list-ember .ember-author-follow-view .following-button {
+    width: 120px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.ember-main .list-ember .ember-author-follow-view .button-rounded {
+    text-align: center;
+    font-size: 1.4rem;
+    border-radius: 99px;
+    padding: 7px 34px;
+    display: inline-block;
+    border: 1px solid;
+}
+button, button:focus, button:active, button:hover, button:visited, button:checked {
+    border: none;
+    cursor: pointer;
+    vertical-align: middle;
+    overflow: visible;
+    text-shadow: none;
+    box-shadow: none;
+    box-sizing: border-box;
+    -webkit-appearance: button;
+    background: none;
+    outline: none;
+}
+.ember-main .list-ember .button-rounded.grey-outline:hover {
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.15);
+    background-color: #fff000;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: #000;
+}
+.ember-main .list-ember .ember-author-follow-view .user-stats div:first-child {
+    border-right: 1px solid #DDD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
